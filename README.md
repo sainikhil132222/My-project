@@ -67,4 +67,4 @@ Decrypted message: "Top secret info"
 This project is open-source and free to use.
 
 ## Author
-[RAMOJU VARAHA NARASIMHA SAI NIKHIL]
+[ RAMOJU VARAHA NARASIMHA SAI NIKHIL ]
