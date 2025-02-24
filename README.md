@@ -2,4 +2,4 @@ stego py need cv2 lib
 
 solution 
 
-pip install cv2
+pip install opencv-python
